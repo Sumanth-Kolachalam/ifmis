@@ -1,0 +1,138 @@
+[
+ {
+  "assigned_to_region": "Madhya Pradesh(State)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00001",
+  "modified": "2025-07-25 15:45:16.717481",
+  "name": "CM-to-Madhya-Pradesh(State)"
+ },
+ {
+  "assigned_to_region": "Madhya Pradesh(State)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00002",
+  "modified": "2025-07-25 15:47:20.247968",
+  "name": "Chief-Sec-to-Madhya-Pradesh(State)"
+ },
+ {
+  "assigned_to_region": "Madhya Pradesh(State)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00003",
+  "modified": "2025-07-25 15:47:28.867948",
+  "name": "Finance-Minister-to-Madhya-Pradesh(State)"
+ },
+ {
+  "assigned_to_region": "Madhya Pradesh(State)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00006",
+  "modified": "2025-07-25 15:47:47.553403",
+  "name": "Principal-Sec-Other-Depts-to-Madhya-Pradesh(State)"
+ },
+ {
+  "assigned_to_region": "Madhya Pradesh(State)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00005",
+  "modified": "2025-07-25 15:48:01.439941",
+  "name": "Principal-Sec-Health-to-Madhya-Pradesh(State)"
+ },
+ {
+  "assigned_to_region": "Madhya Pradesh(State)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00004",
+  "modified": "2025-07-25 15:48:42.588887",
+  "name": "Prinicipal-Sec-/-Add-Chief-Sec-to-Madhya-Pradesh(State)"
+ },
+ {
+  "assigned_to_region": "Madhya Pradesh(State)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00007",
+  "modified": "2025-07-25 15:48:50.816600",
+  "name": "Directorate-Of-Treasury-And-Accounts-to-Madhya-Pradesh(State)"
+ },
+ {
+  "assigned_to_region": "Madhya Pradesh(State)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00008",
+  "modified": "2025-07-25 15:49:00.690128",
+  "name": "Directorate-Of-Institutional-Finance-to-Madhya-Pradesh(State)"
+ },
+ {
+  "assigned_to_region": "Madhya Pradesh(State)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00009",
+  "modified": "2025-07-25 15:49:08.133091",
+  "name": "Directorate-Of-Local-Fund-Audit-to-Madhya-Pradesh(State)"
+ },
+ {
+  "assigned_to_region": "Madhya Pradesh(State)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00010",
+  "modified": "2025-07-25 15:49:17.897111",
+  "name": "Directorate-Of-FIMS-to-Madhya-Pradesh(State)"
+ },
+ {
+  "assigned_to_region": "Madhya Pradesh(State)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00011",
+  "modified": "2025-07-25 15:49:25.029026",
+  "name": "Directorate-Of-Pension,-PF-And-Insurance-to-Madhya-Pradesh(State)"
+ },
+ {
+  "assigned_to_region": "Bhopal(Zone)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00012",
+  "modified": "2025-07-25 15:49:33.574052",
+  "name": "Joint-Director-to-Bhopal(Zone)"
+ },
+ {
+  "assigned_to_region": "Bhopal(Zone)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00013",
+  "modified": "2025-07-25 15:49:45.755610",
+  "name": "Deputy-Director-to-Bhopal(Zone)"
+ },
+ {
+  "assigned_to_region": "Bhopal(District)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00014",
+  "modified": "2025-07-25 15:49:56.079087",
+  "name": "Treasury-Officer-to-Bhopal(District)"
+ },
+ {
+  "assigned_to_region": "Bhopal(District)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00015",
+  "modified": "2025-07-25 15:50:06.505837",
+  "name": "Assistant-Treasury-Officer-to-Bhopal(District)"
+ },
+ {
+  "assigned_to_region": "Bhopal(District)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00016",
+  "modified": "2025-07-25 15:50:16.437193",
+  "name": "Sub-Treasury-Officer-to-Bhopal(District)"
+ },
+ {
+  "assigned_to_region": "Bhopal(District)",
+  "docstatus": 0,
+  "doctype": "Employee To Region Mapping",
+  "employee": "HR-EMP-00017",
+  "modified": "2025-07-25 15:50:30.396192",
+  "name": "DDO-to-Bhopal(District)"
+ }
+]

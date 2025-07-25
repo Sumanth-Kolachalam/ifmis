@@ -75,11 +75,11 @@
  "is_tree": 1,
  "links": [
   {
-   "link_doctype": "User To Region Mapping",
+   "link_doctype": "Employee To Region Mapping",
    "link_fieldname": "assigned_to_region"
   }
  ],
- "modified": "2025-07-24 16:48:59.656812",
+ "modified": "2025-07-25 15:55:49.147438",
  "modified_by": "Administrator",
  "module": "Ifmis",
  "name": "Region",

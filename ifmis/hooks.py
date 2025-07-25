@@ -5,7 +5,7 @@ app_description = "ifmis"
 app_email = "ifims@gmail.com"
 app_license = "mit"
 
-fixtures = ["User", "Region", "Employee"]
+fixtures = ["User", "Region", "Employee", "Employee To Region Mapping"]
 
 # Apps
 # ------------------
