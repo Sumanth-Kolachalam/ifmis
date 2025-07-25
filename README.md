@@ -27,9 +27,14 @@ bench --site yoursite install-app hrms
 You can install IFMIS app using the [bench](https://github.com/frappe/bench) CLI:
 
 ```bash
-cd $PATH_TO_YOUR_BENCH
-bench get-app $URL_OF_THIS_REPO --branch dev
-bench install-app ifmis
+# Navigate to your bench
+cd path/to/your/bench
+
+# Get the app from the github repo
+bench get-app https://github.com/Sumanth-Kolachalam/ifmis.git
+
+# Install the app into your site
+bench --site yoursite install-app ifmis
 ```
 
 ### Migrate
@@ -37,5 +42,5 @@ bench install-app ifmis
 To get all the doctypes and the data
 
 ``` bash
-bench --site sitename migrate
+bench --site yoursite migrate
 ```
