@@ -1,0 +1,35 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Region",
+  "is_group": 1,
+  "modified": "2025-07-24 16:10:18.976018",
+  "name": "Bhopal(Zone)",
+  "old_parent": null,
+  "parent_region": "Madhya Pradesh(State)",
+  "region_name": "Bhopal",
+  "region_type": "Zone"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Region",
+  "is_group": 0,
+  "modified": "2025-07-24 16:10:57.601878",
+  "name": "Bhopal(District)",
+  "old_parent": null,
+  "parent_region": "Bhopal(Zone)",
+  "region_name": "Bhopal",
+  "region_type": "District"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Region",
+  "is_group": 1,
+  "modified": "2025-07-24 16:07:34.515612",
+  "name": "Madhya Pradesh(State)",
+  "old_parent": null,
+  "parent_region": null,
+  "region_name": "Madhya Pradesh",
+  "region_type": "State"
+ }
+]
